@@ -20,4 +20,4 @@ A simple Python program that generates an email ID using the user’s first name
 - Python 3
 
 
-## Project Structure
+## Complete Project Structure
